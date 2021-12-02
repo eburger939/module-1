@@ -145,6 +145,7 @@ changed class name to middle for all three sections to consolidate */
     text-align: center;
 }
 /* added header */
+/* changed to h3 to fall in sequential order */
 .footer h2 {
     font-size: 20px;
 }

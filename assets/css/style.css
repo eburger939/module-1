@@ -92,7 +92,7 @@ p {
     
 }
 /* changed div to article */
-/* consolidated */
+/* consolidated ; renamed benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -114,7 +114,8 @@ p {
 }
 
 /* changed from id to article class */
-/* added id */
+/* added id so that the nav link would drop down to section for first one
+changed class name to middle for all three sections to consolidate */
 .middle {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,50 +124,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* changed from id to article class */
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff; */
-
-/* changed from id to article class */
-/* .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff; */
 
 /* added alt description */
 .middle img {
     max-height: 200px;
 }
-/* added alt description */
-/* .online-reputation-management img {
-    max-height: 200px; */
 
-/* added alt description */
-/* .social-media-marketing img {
-    max-height: 200px; */
 
 /* added header */
 .middle h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* added header
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px; */
-
-/* added header */
-/* .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px; */
 
 /* changed from div to footer */
 .footer {

@@ -1,7 +1,6 @@
 # Homework 1
 * Due on 12/2/2021
-* Collaborated with Taylor Garret, Darne Nicholson, and Ben Wilson
-* Also received assistance from tutor Faran
+
 
 ##### Description
 * The purpose of this assignment was to replace div sections with semantic html elements to make the webpage more accessible.  Image descriptions were added to all icons and images, and the CSS code was consolidated and streamlined.  
